@@ -8,6 +8,7 @@
 - Machine Learning (ML) 
 - Statistics
 - Python programming
+- Deep Learning
 - Power BI
 - SQL
 - Natural Language Processing (NLP)
