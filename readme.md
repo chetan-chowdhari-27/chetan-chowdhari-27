@@ -25,6 +25,6 @@
 - Visualizations created using Power BI and other tools
 - Demonstrations of cloud deployment using AWS and Azure
 
-📬 Let's connect and collaborate! Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/yourusername) or [Twitter](https://twitter.com/yourusername).
+📬 Let's connect and collaborate! Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/chetan-chowdhari/) or [Twitter](https://twitter.com/yourusername).
 
 Let's learn, grow, and conquer the world of Data Science together!
