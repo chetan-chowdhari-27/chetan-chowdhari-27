@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Chetan Chowdhari
 
-## From WordPress Developer to Data Scientist 🚀
+## From Software Engineer to Data Scientist 🚀
 
 As a seasoned WordPress Developer, I'm passionate about leveraging my skills to drive insights and innovation in the field of Data Science. I'm excited to share my journey, projects, and learnings with you on this GitHub profile.
 
