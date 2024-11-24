@@ -1,31 +1,30 @@
 # Hello! 👋 I'm Chetan Chowdhari
 
-## From Software Engineer to Data Scientist 🚀
+## From Software Engineer to Azure Data Engineer 🚀
 
-As a seasoned WordPress Developer, I'm passionate about leveraging my skills to drive insights and innovation in the field of Data Science. I'm excited to share my journey, projects, and learnings with you on this GitHub profile.
+As a seasoned WordPress Developer, I'm passionate about leveraging my skills to drive insights and innovation in the field of Data Engineering. I'm excited to share my journey, projects, and learnings with you on this GitHub profile.
 
-### Expanding My Skill Set 📚
+## Expanding My Skill Set 📚
 
 I'm constantly learning and expanding my expertise in:
+- **Data Engineering**: Building robust data pipelines and workflows
+- **Azure Data Services**: Utilizing tools like Azure Data Factory, Azure Synapse Analytics, and Azure Databricks
+- **SQL**: Querying, managing, and optimizing large datasets
+- **Python Programming**: Mastering the language for data manipulation and automation
+- **ETL Processes**: Extracting, transforming, and loading data efficiently
+- **Power BI**: Creating interactive and informative visualizations
+- **Azure Machine Learning**: Exploring ML models and their deployments on Azure
+- **Data Warehousing**: Designing and managing scalable data warehouses
+- **DevOps**: Implementing CI/CD pipelines for data projects
+- **Cloud Deployment with AWS and Azure**: Scaling data projects to the cloud
 
-* **Machine Learning (ML)**: Building predictive models and solving complex problems
-* **Statistics**: Understanding data distributions and making informed decisions
-* **Python programming**: Mastering the language of Data Science
-* **Deep Learning**: Exploring neural networks and their applications
-* **Power BI**: Creating interactive and informative visualizations
-* **SQL**: Querying and managing large datasets
-* **Natural Language Processing (NLP)**: Extracting insights from text data
-* **Advanced Excel**: Unlocking the power of spreadsheet analysis
-* **Computer Vision (CV)**: Building image and video analysis models
-* **Cloud deployment with AWS and Azure**: Scaling Data Science projects to the cloud
+## What You Can Expect from My GitHub 🚀
 
-### What You Can Expect from My GitHub 🚀
+- **Projects**: Follow my journey from WordPress Developer to Azure Data Engineer, with projects showcasing my growth and expertise
+- **Code Implementations**: Explore my implementations of ETL processes, data pipelines, and Azure data services
+- **Visualizations**: Discover interactive and informative visualizations created using Power BI and other tools
+- **Cloud Deployment Demos**: Learn how to deploy data projects to Azure and AWS
 
-* **Projects**: Follow my journey from WordPress Developer to Data Scientist, with projects showcasing my growth and expertise
-* **Code implementations**: Explore my implementations of ML, NLP, CV, and other Data Science concepts
-* **Visualizations**: Discover interactive and informative visualizations created using Power BI and other tools
-* **Cloud deployment demos**: Learn how to deploy Data Science projects to AWS and Azure
+## Let's Connect and Collaborate! 📬
 
-### Let's Connect and Collaborate! 📬
-
-Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/chetan-chowdhari/) or [Twitter](https://twitter.com/yourusername). Let's learn, grow, and conquer the world of Data Science together! 💡
+Feel free to reach out to me through [LinkedIn](https://www.linkedin.com) or [Twitter](https://www.twitter.com). Let's learn, grow, and conquer the world of Data Engineering together! 💡
